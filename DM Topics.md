@@ -46,7 +46,8 @@
 	- parametric 
 	- non parametric
 		- histogram
-- apriori algorithm(N) 
+- apriori algorithm(N)
+- FP growth
 - lift(N)
 - clustering methods
 - Partition based clustering 
