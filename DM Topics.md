@@ -1,0 +1,102 @@
+- KDD processes
+- tasks involved in data mining
+- types of data can be mined or types of knowledge bases
+- database vs data warehouse 
+- different types of database used
+- data mining functionalities 
+	- characterization and discrimination 
+	- frequent patterns, associations and correlations
+		- Support and Confidence(N)
+		- strong association rule 
+	- classification and regression 
+	- clustering 
+	- outlier analysis 
+	- evolution analysis 
+- integration of data mining with data warehouse or database 
+- types of attributes 
+	- types of binary attributes
+- data augmentation
+- statistical description of data: mean ,median, mode, range ,quantiles, variance and standard deviation(N)
+- Data matrix and dissimilarity matrix
+- Similarity and dissimilarity
+- Proximity measure for Binary attributes(N)
+- Dissimilarity of numeric data(N)
+    - Euclidean distance
+    - Manhattan distance
+        - Properties
+    - Minkowski distance
+- Data preprocessing and steps
+- Types of data reduction
+- Data cleaning methods
+    - Binning(N)
+- Rules examined during data cleaning
+- Tools to detect discrepancy in data
+- Problems facing data integration
+    - Entity recognition problem
+    - Redundancy and correlation
+- Chi square test(N)
+- correlation analysis for numerical data(N)  
+- Ways of Data Transformation
+- data normalisation techniques
+- covariance vs correlation(gfg)
+- PCA
+- discrete wavelet transform*
+- atribute subset selection
+- Data reduction techniques
+	- parametric 
+	- non parametric
+		- histogram
+- apriori algorithm(N) 
+- lift(N)
+- clustering methods
+- Partition based clustering 
+	- k-means
+		- quality of cluster 
+	- k mediod
+- Hierarchical based clustering 
+	- DIANA
+	- AGNES
+	- BIRCH
+- Density Based Clustering 
+	- DBSCAN
+- Classification Algorithms
+- Evaluation Metrics: Precision,Recall,F1 Score,ROC,AUC
+- k fold cross validation
+- Ensemble Learning
+	- Types and it's explanation 
+	- Aggregation
+	- Bootstrap Sampling or Bootstrapping 
+	- AdaBoosting
+- Decision Trees
+	- parameters
+	- methods for attributes selection
+	- Tree Pruning 
+	- Numerical(N)
+- Bayesian Classifier
+	- Bayes Rule
+	- Types of probabilities
+- Rule Based Classification 
+	- antecedent, consequent 
+	- coverage, accuracy (N)
+	- conflict resolution strategies 
+- SVM
+	- support vector ,margin ,hyperplane 
+	- kernel
+	- soft margin ,hard margin 
+	- objective function 
+- artificial neural networks 
+	- types of layers 
+	- activation functions, weights,bias
+	- Types of ANN
+		- LSTM
+	- Backpropagation Algorithm 
+		- error formulas
+- logistic regression 
+- Data Warehousing 
+	- types of data warehouse 
+	- OLAP vs OLTP
+	- ETL process in Data Warehouse 
+	- Data Cube
+	- Data Warehouse Architecture 
+	- Types of OLAP servers
+	- multi dimensional data models and its schemas
