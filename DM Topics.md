@@ -95,6 +95,7 @@
 - Data Warehousing 
 	- types of data warehouse 
 	- OLAP vs OLTP
+   	- OLAP operations
 	- ETL process in Data Warehouse 
 	- Data Cube
 	- Data Warehouse Architecture 
